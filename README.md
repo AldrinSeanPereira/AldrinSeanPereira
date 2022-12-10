@@ -5,13 +5,12 @@
 - 👀 My interests lie in the fields of **programming, health & learning**
 - 🌱 I’m currently working on **C#, WPF, Git, Github and contributing to Open Source**
  
-## I wish to become as a full stack web dev (working remotely) so I'll accept all the help that I can get
+## I wish to become a full stack web dev (working remotely) so I’m looking to collaborate on related projects
 
-- 💞️ I’m looking to collaborate on projects that **help me add value** to others and myself
 - 📫 How to reach me :
   - Twitter: [@aaaldehyde](https://twitter.com/aaaldehyde)
   - LinkedIn: [Aldrin Sean Pereira](https://www.linkedin.com/in/aldrinseanpereira/)
-- You can also find me on the EddieHub discord server 😁
+- You can also find me on [EddieHub](https://github.com/EddieHubCommunity?view_as=public) and its discord server 😁
 
 <!---
 AldrinSeanPereira/AldrinSeanPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
