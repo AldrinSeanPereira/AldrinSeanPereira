@@ -1,9 +1,9 @@
 # 👋 Heyyy amazing people!
 ## I'm @AldrinSeanPereira
 
-- 😎 I'm a **Master's student in Computer Science** working as a **software engineering intern** 
+- 😎 I'm a **Master's student in Computer Science** working as a **software engineering intern - C# & WPF tech stack** 
 - 👀 My interests lie in the fields of **programming, health & learning**
-- 🌱 I’m currently working on **C#, WPF, Git, Github and contributing to Open Source**
+- 🌱 I’m currently working on **learning from FreeCodeCamp certifications**
 
 ## I wish to become a full stack web dev (working remotely) so I’m looking to collaborate on related projects
 
