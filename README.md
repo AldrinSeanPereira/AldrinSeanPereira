@@ -1,5 +1,5 @@
 # 👋 Heyyy amazing people!
-## I'm @AldrinSeanPereira
+## I'm Aldrin Sean Pereira
 
 - 😎 I'm a ```Master's student``` in ```Computer Science Engineering```
     
