@@ -5,9 +5,11 @@
     
 - 👀 My interests lie in the fields of ```software engineering```, ```health``` & ```learning```
   
-- 🌱 I’m currently freelancing using my skills to build work experience
+- 🌱 I’m currently working on contributing to Open Source projects!
+
+- 🥰 Tech: C, C#, Java, TypeScript/JavaScript, Node, Express, MySQL, Spring Boot, HTML, CSS (all over the place but foundations matter right?)
   
-- 🚀 You can view my [Linkedin profile](https://www.linkedin.com/in/aldrinseanpereira/) to know more about me too!
+- 🚀 You can view my [Linkedin profile](https://www.linkedin.com/in/aldrinseanpereira/) where I'm pretty active on...
 
 <!---
 AldrinSeanPereira/AldrinSeanPereira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
