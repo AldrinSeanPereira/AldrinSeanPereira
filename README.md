@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently working on contributing to Open Source projects!
 
-- 🥰 Tech: C, C#, Java, TypeScript/JavaScript, Node, Express, MySQL, Spring Boot, HTML, CSS (all over the place but foundations matter right?)
+- 🥰 Tech: C, C#, C++, Java, Python, HTML, CSS, Javascript, TypeScript, SQL
   
 - 🚀 You can view my [Linkedin profile](https://www.linkedin.com/in/aldrinseanpereira/) where I'm pretty active on...
 
